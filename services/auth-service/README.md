@@ -1,0 +1,1 @@
+--respawn => This makes sure that previous process is properly killed before starting the new one , when we do autosave.
